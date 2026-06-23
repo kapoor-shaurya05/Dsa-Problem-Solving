@@ -18,4 +18,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
