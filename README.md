@@ -18,10 +18,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 ## Sorting
 |  |
@@ -32,4 +34,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
