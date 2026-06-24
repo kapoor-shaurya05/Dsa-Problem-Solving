@@ -27,12 +27,14 @@
 | [0011-container-with-most-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -61,8 +63,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
