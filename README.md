@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0056-merge-intervals) |
 ## Math
 |  |
 | ------- |
