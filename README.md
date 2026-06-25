@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0014-longest-common-prefix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +50,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
