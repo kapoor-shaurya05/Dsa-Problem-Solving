@@ -30,6 +30,7 @@
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
