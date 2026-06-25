@@ -36,6 +36,7 @@
 | [0035-search-insert-position](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
