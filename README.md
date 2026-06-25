@@ -39,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
