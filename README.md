@@ -56,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0198-house-robber) |
 ## Monotonic Stack
 |  |
 | ------- |
