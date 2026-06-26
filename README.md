@@ -49,6 +49,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
