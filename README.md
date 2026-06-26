@@ -44,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0062-unique-paths](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
