@@ -106,6 +106,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
