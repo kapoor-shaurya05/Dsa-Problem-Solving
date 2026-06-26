@@ -55,6 +55,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0013-roman-to-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
