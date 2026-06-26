@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0136-single-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0056-merge-intervals](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 ## Combinatorics
 |  |
 | ------- |
@@ -165,4 +169,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
