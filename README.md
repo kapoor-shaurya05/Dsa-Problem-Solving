@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
