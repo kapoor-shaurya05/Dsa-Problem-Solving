@@ -57,6 +57,7 @@
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,4 +179,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
