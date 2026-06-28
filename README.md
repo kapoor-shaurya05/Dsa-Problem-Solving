@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -28,6 +29,7 @@
 | [0125-valid-palindrome](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,4 +219,8 @@
 | [0238-product-of-array-except-self](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
