@@ -61,6 +61,7 @@
 | [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -124,6 +125,7 @@
 | [0012-integer-to-roman](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
