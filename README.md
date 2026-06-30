@@ -102,6 +102,7 @@
 | [0896-monotonic-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -125,6 +126,7 @@
 | [0344-reverse-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
