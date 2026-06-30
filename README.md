@@ -284,4 +284,8 @@
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
