@@ -101,6 +101,7 @@
 | [0875-koko-eating-bananas](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -137,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -298,4 +301,24 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0584-find-customer-referee) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
