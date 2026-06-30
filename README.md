@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -87,6 +88,7 @@
 | [0238-product-of-array-except-self](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +115,7 @@
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -209,6 +213,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
