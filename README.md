@@ -104,6 +104,7 @@
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -288,6 +289,7 @@
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
