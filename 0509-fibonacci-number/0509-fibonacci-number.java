@@ -1,0 +1,15 @@
+class Solution {
+    public int fib(int n) {
+        if(n<=1) return n;
+        /* Declare an array to store Fibonacci numbers. */
+        int f[] = new int[n + 1]; // 1 extra to handle case, n = 0
+
+        f[0] = 1;
+        f[1] = 1;
+
+        for (int i = 2; i <= n; i++) {
+            f[i] = f[i - 1] + f[i - 2];
+        }
+        return f[n-1];
+    }
+}
