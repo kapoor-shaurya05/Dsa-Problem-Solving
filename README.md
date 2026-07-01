@@ -107,6 +107,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
@@ -185,6 +186,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -282,6 +285,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 ## Counting
 |  |
 | ------- |
@@ -335,4 +339,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
