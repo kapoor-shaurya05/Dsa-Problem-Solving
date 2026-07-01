@@ -23,6 +23,7 @@
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
+| [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
 ## String
 |  |
@@ -122,6 +123,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
+| [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
 ## Bit Manipulation
 |  |
@@ -310,6 +313,7 @@
 | [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1603-design-parking-system) |
+| [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
 ## Counting
 |  |
@@ -340,6 +344,7 @@
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1603-design-parking-system) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
+| [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3612-process-string-with-special-operations-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3612-process-string-with-special-operations-i) |
 ## Database
 |  |
