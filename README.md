@@ -48,6 +48,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
+| [3612-process-string-with-special-operations-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3612-process-string-with-special-operations-i) |
 ## Database
 |  |
 | ------- |
