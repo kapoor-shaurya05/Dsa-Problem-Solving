@@ -17,6 +17,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -40,6 +41,7 @@
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
+| [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
@@ -279,6 +281,7 @@
 | [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 ## Counting
 |  |
 | ------- |
