@@ -171,6 +171,7 @@
 | [0342-power-of-four](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
