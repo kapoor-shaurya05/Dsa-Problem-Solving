@@ -49,6 +49,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0796-rotate-string) |
 | [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
