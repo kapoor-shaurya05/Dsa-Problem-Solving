@@ -103,6 +103,7 @@
 | [0238-product-of-array-except-self](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
@@ -296,6 +297,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0289-game-of-life) |
 | [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
 ## Bit Manipulation
@@ -350,6 +352,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1603-design-parking-system) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
