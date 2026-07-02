@@ -268,6 +268,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -409,4 +410,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
