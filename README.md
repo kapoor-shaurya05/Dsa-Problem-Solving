@@ -374,6 +374,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0584-find-customer-referee) |
 | [1683-invalid-tweets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
