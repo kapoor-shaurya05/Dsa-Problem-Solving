@@ -47,6 +47,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0796-rotate-string) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
