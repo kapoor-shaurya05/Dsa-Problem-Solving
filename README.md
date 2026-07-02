@@ -183,6 +183,7 @@
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
@@ -416,4 +417,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
