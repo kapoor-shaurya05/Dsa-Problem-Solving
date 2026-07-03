@@ -273,6 +273,7 @@
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -343,6 +344,7 @@
 | [0191-number-of-1-bits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Design
