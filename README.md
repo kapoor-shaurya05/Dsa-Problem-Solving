@@ -191,6 +191,7 @@
 | [0319-bulb-switcher](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -286,6 +287,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
