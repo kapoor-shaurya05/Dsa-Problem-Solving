@@ -201,6 +201,7 @@
 | [0319-bulb-switcher](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0367-valid-perfect-square) |
@@ -274,6 +275,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
