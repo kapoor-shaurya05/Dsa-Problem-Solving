@@ -130,6 +130,7 @@
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0896-monotonic-array) |
@@ -292,6 +293,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
