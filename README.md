@@ -12,6 +12,7 @@
 | [0141-linked-list-cycle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0290-word-pattern) |
@@ -48,6 +49,7 @@
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
