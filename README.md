@@ -31,6 +31,7 @@
 | [1656-design-an-ordered-stream](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1656-design-an-ordered-stream) |
 | [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
+| [3866-first-unique-even-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [2293-min-max-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2293-min-max-game) |
 | [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
+| [3866-first-unique-even-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1603-design-parking-system) |
+| [3866-first-unique-even-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
