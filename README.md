@@ -243,6 +243,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -503,6 +504,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
