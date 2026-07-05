@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
@@ -56,6 +57,7 @@
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -392,6 +394,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1603-design-parking-system) |
