@@ -106,6 +106,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
@@ -207,6 +208,7 @@
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0231-power-of-two) |
@@ -258,6 +260,7 @@
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
