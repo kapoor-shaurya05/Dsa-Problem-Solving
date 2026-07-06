@@ -52,6 +52,7 @@
 | [0065-valid-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -301,6 +302,7 @@
 | [0055-jump-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
