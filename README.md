@@ -22,6 +22,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
@@ -59,6 +60,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
@@ -194,6 +196,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
@@ -373,6 +376,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Design
 |  |
