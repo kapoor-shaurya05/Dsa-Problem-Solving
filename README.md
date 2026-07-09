@@ -114,6 +114,7 @@
 | [0088-merge-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0134-gas-station) |
@@ -321,6 +322,7 @@
 | [0091-decode-ways](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0198-house-robber) |
