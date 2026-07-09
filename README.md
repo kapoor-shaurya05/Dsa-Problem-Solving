@@ -515,6 +515,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0101-symmetric-tree) |
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
@@ -536,11 +537,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
@@ -548,6 +551,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0101-symmetric-tree) |
 ## Quickselect
 |  |
 | ------- |
