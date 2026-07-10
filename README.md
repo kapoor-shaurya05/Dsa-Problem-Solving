@@ -112,6 +112,7 @@
 | [0075-sort-colors](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0120-triangle) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -544,6 +546,7 @@
 | [0100-same-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
@@ -562,6 +565,7 @@
 | [0100-same-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0110-balanced-binary-tree) |
 ## Quickselect
 |  |
@@ -572,4 +576,8 @@
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
