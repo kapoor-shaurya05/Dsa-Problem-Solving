@@ -89,6 +89,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1652-defuse-the-bomb) |
 | [1656-design-an-ordered-stream](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1656-design-an-ordered-stream) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2293-min-max-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2293-min-max-game) |
 | [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
@@ -221,6 +223,7 @@
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1051-height-checker) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
 | ------- |
