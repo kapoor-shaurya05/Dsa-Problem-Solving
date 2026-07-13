@@ -198,6 +198,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0344-reverse-string) |
@@ -291,6 +292,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
@@ -307,6 +309,7 @@
 | [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
@@ -319,6 +322,7 @@
 | [0050-powx-n](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0390-elimination-game) |
