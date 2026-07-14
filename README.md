@@ -502,6 +502,7 @@
 | [0196-delete-duplicate-emails](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
