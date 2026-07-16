@@ -334,6 +334,7 @@
 | [0496-next-greater-element-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
@@ -384,6 +385,7 @@
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
@@ -468,6 +470,7 @@
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1603-design-parking-system) |
@@ -560,6 +563,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1656-design-an-ordered-stream) |
 ## Hash Function
