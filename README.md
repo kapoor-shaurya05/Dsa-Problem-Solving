@@ -474,6 +474,7 @@
 | [0706-design-hashmap](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1603-design-parking-system) |
@@ -506,6 +507,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
@@ -567,6 +569,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1656-design-an-ordered-stream) |
 ## Hash Function
