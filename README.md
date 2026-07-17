@@ -90,6 +90,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
@@ -144,6 +145,7 @@
 | [0217-contains-duplicate](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -511,6 +513,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0933-number-of-recent-calls) |
 ## Simulation
@@ -546,6 +549,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
@@ -678,4 +682,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
