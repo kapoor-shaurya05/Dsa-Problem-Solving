@@ -96,6 +96,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -182,6 +183,7 @@
 | [1046-last-stone-weight](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -516,6 +518,7 @@
 | [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0933-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Simulation
 |  |
 | ------- |
@@ -554,6 +557,7 @@
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1046-last-stone-weight) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
 | ------- |
@@ -686,4 +690,9 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
