@@ -176,6 +176,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
@@ -543,6 +544,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
