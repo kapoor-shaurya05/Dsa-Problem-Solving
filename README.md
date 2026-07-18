@@ -644,6 +644,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -674,6 +675,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -690,6 +692,7 @@
 | [0096-unique-binary-search-trees](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
