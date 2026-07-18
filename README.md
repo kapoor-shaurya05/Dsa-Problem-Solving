@@ -616,6 +616,7 @@
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Interactive
 |  |
 | ------- |
@@ -647,6 +648,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -666,6 +668,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -684,6 +687,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Quickselect
@@ -705,6 +709,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Geometry
