@@ -662,6 +662,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -685,6 +686,7 @@
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -710,6 +712,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
