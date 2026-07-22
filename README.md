@@ -650,6 +650,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
 |  |
@@ -716,6 +717,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -758,6 +760,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
+| [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -797,5 +800,6 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
