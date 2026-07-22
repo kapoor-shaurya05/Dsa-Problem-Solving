@@ -644,6 +644,7 @@
 | [0112-path-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
@@ -711,6 +712,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
@@ -804,9 +806,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
