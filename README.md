@@ -648,6 +648,7 @@
 | [0322-coin-change](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
@@ -713,6 +714,7 @@
 | [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
@@ -789,9 +791,11 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
