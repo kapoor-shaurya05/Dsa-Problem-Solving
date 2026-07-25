@@ -120,6 +120,7 @@
 | [0014-longest-common-prefix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
@@ -230,6 +231,7 @@
 | [0011-container-with-most-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0027-remove-element) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0056-merge-intervals) |
