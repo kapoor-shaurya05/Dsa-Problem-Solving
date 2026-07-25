@@ -284,6 +284,7 @@
 | [1051-height-checker](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3536-maximum-product-of-two-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
