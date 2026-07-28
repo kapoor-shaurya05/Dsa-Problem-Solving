@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -359,6 +360,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
