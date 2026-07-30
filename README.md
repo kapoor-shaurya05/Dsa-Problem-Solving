@@ -370,6 +370,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0707-design-linked-list) |
@@ -655,6 +656,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
@@ -764,6 +766,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
