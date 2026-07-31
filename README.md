@@ -79,6 +79,7 @@
 | [0179-largest-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
@@ -318,6 +319,7 @@
 | [0189-rotate-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
@@ -393,6 +395,7 @@
 | [0155-min-stack](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
