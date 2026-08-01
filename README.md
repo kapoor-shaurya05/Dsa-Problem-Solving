@@ -92,6 +92,7 @@
 | [0389-find-the-difference](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
@@ -558,6 +559,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
@@ -705,6 +707,7 @@
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -751,6 +754,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
@@ -786,6 +790,7 @@
 | [0365-water-and-jug-problem](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
@@ -821,6 +826,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
@@ -862,6 +868,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
