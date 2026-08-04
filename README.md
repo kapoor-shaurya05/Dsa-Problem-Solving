@@ -77,6 +77,7 @@
 | [0079-word-search](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -447,6 +448,7 @@
 | [0120-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -868,6 +870,7 @@
 | [0078-subsets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
