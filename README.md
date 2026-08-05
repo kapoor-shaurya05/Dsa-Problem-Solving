@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -139,6 +140,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
@@ -538,6 +540,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0079-word-search) |
@@ -866,6 +869,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0046-permutations) |
@@ -936,4 +940,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0210-course-schedule-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
