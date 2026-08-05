@@ -76,6 +76,7 @@
 | [0065-valid-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0125-valid-palindrome) |
@@ -446,6 +447,7 @@
 | [0055-jump-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0118-pascals-triangle) |
