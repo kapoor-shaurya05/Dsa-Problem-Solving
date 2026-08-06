@@ -206,6 +206,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -472,6 +473,7 @@
 | [0343-integer-break](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 ## Monotonic Stack
@@ -962,4 +964,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
