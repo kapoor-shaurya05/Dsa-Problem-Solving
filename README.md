@@ -43,6 +43,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0706-design-hashmap) |
@@ -121,6 +122,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -218,6 +220,7 @@
 | [0523-continuous-subarray-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0705-design-hashset) |
@@ -316,6 +319,7 @@
 | [0389-find-the-difference](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
@@ -377,6 +381,7 @@
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0767-reorganize-string) |
 ## Trie
@@ -681,6 +686,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
