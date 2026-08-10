@@ -232,6 +232,7 @@
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -562,6 +563,7 @@
 | [0289-game-of-life](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
 ## Bit Manipulation
@@ -745,6 +747,7 @@
 | [0785-is-graph-bipartite](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
