@@ -690,6 +690,7 @@
 | [0621-task-scheduler](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
@@ -764,6 +765,7 @@
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
@@ -856,6 +858,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
@@ -974,6 +977,7 @@
 | [0210-course-schedule-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
@@ -1007,4 +1011,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
