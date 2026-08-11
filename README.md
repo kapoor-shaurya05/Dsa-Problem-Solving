@@ -352,6 +352,7 @@
 | [0224-basic-calculator](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0292-nim-game) |
