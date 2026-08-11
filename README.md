@@ -768,6 +768,7 @@
 | [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -861,6 +862,7 @@
 | [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -980,6 +982,7 @@
 | [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -987,6 +990,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
 ## Algorithm X
 |  |
 | ------- |
@@ -1019,4 +1023,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0743-network-delay-time) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
