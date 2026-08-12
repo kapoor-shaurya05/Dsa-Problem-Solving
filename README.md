@@ -371,6 +371,7 @@
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1512-number-of-good-pairs) |
@@ -540,6 +541,7 @@
 | [0875-koko-eating-bananas](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
@@ -562,6 +564,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -1036,4 +1039,24 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
