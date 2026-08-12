@@ -217,6 +217,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0454-4sum-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0503-next-greater-element-ii) |
@@ -437,6 +438,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0735-asteroid-collision) |
@@ -503,6 +505,7 @@
 | [0042-trapping-rain-water](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0739-daily-temperatures) |
@@ -535,6 +538,7 @@
 | [0367-valid-perfect-square](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -969,6 +973,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Union-Find
 |  |
