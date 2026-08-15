@@ -240,6 +240,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [0909-snakes-and-ladders](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
@@ -592,6 +593,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
 | [3484-design-spreadsheet](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3484-design-spreadsheet) |
@@ -789,6 +791,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0841-keys-and-rooms) |
+| [0909-snakes-and-ladders](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
