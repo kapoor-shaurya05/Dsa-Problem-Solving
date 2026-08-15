@@ -222,6 +222,7 @@
 | [0496-next-greater-element-i](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -499,6 +500,7 @@
 | [0410-split-array-largest-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 ## Monotonic Stack
 |  |
@@ -588,6 +590,7 @@
 | [0289-game-of-life](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [3242-design-neighbor-sum-service](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/3242-design-neighbor-sum-service) |
@@ -776,6 +779,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0684-redundant-connection) |
