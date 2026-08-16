@@ -343,6 +343,7 @@
 | [0009-palindrome-number](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0062-unique-paths) |
@@ -600,6 +601,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0090-subsets-ii) |
