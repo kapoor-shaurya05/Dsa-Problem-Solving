@@ -410,6 +410,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
@@ -460,6 +461,7 @@
 | [0002-add-two-numbers](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kapoor-shaurya05/Dsa-Problem-Solving/tree/master/0206-reverse-linked-list) |
